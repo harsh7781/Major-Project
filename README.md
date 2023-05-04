@@ -28,3 +28,7 @@ This Web application will help you to predict whether a person has a risk of bei
 └─── Procfile
 └─── setup.sh
 ```
+
+
+You can watch the live demo here:
+<a href="https://harsh7781-major-project-main-7g0188.streamlit.app/" target="_blank">Click Here</a>
